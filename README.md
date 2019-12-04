@@ -2,6 +2,8 @@
 
 **Chidori拡張キットは単体では動作しません。Chidori本体に接続してご使用ください。**
 
+Chidori の組立説明書は [こちら](https://github.com/ka2hiro/chidori_build_guide/blob/master/README.md) を参照してください。
+
 
 
 

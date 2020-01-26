@@ -136,7 +136,7 @@ Number | Image | Name   | Value | Qty | Remarks         | Place
 
 ![dip switch](images/IMG_4307.jpg)
 
-2. Set the DIP switches as follows, setting 1 to Off (down) and 2 to 4 to On (up).
+2. Set the DIP switches as follows, setting 1 to Off (down), 2 and 3 to On (up) and 4 to Off (down).
 
 ![dip switch settings](images/IMG_4574.jpg)
 

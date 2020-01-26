@@ -129,7 +129,7 @@ Chidori の組立説明書は [こちら](https://github.com/ka2hiro/chidori_bui
 1. DIPスイッチを半田付けします。
 ![dip switch](images/IMG_4307.jpg)
 
-2. DIPスイッチの設定は以下の通り、1をOff（下）、2から4をOn（上）にします。
+2. DIPスイッチの設定は以下の通り、1をOff（下）、2と3をOn（上）、4をOff（下）にします。
 ![dip switch settings](images/IMG_4574.jpg)
 
 

@@ -280,11 +280,11 @@ Before connecting to the computer, at least check the followings.
 
 
 ## Write firmware
-The firmware uses QMK. Since it has not been merged into QMK itself, clone the following repository, check out the "chidori_support" branch, and build.
+The firmware uses QMK. Clone the following repository.
 
-[qmk_firmware](https://github.com/ka2hiro/qmk_firmware)
+[qmk_firmware](https://github.com/qmk/qmk_firmware)
 
-After checking out, go to the directory of your local repository.
+After cloning, go to the directory of your local repository.
 
 Then connect the keyboard to the computer and enter boot loader mode.
 

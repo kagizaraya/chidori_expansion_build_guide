@@ -41,7 +41,7 @@ Chidori の組立説明書は [こちら](https://github.com/ka2hiro/chidori_bui
 17 |![M2 Standoff 7mm](images/IMG_4555.jpg)| M2スペーサ | 7mm | 4 |                   |
 18 |![M2 Screw](images/IMG_4557.jpg)| M2ネジ    | 4mm | 12 |                   |
 19 |![Stabilizer base](images/IMG_4562.jpg)| スタビライザ台座 |   | 6 |    |
-20 |![Stabilizer shaft](images/IMG_4562.jpg)| スタビライザ軸 |   | 6 |    |
+20 |![Stabilizer shaft](images/IMG_4564.jpg)| スタビライザ軸 |   | 6 |    |
 21 |![Stabilizer wire](images/IMG_4566.jpg)| スタビライザワイヤ |   | 3 |    |
 22 |![RubberFeet](images/IMG_4559.jpg)| ゴム足 |      | 4 |                |
 23 |![TRRS Cable](images/IMG_4561.jpg)| TRRSケーブル  |       | 1 |     | 

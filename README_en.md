@@ -24,7 +24,7 @@ Number | Image | Name   | Value | Qty | Remarks         | Place
 1 |![PCB](images/IMG_4522.jpg)| PCB      |       | 1    |       |
 2 |![Top  Plate](images/IMG_4525.jpg)| Top plate |  | 1 |           |
 3 |![Bottom Plate](images/IMG_4524.jpg)| Bottom plate |     | 1 |        |
-4 |![Acryl Plate](images/IMG_4528.jpg)| Acrylic  plate |  | 1 |        | | 
+4 |![Acryl Plate](images/IMG_4528.jpg)| Acrylic  plate |  | 1 |        |
 5 |![I2C IO Expander](images/IMG_4532.jpg)| I2C IO Expander | MCP23017 | 1 |  | U1 
 6 |![IC Socket](images/IMG_4533.jpg)| IC Sockets |  | 1 |   | 
 7 |![TRRS Jack](images/IMG_4536.jpg)| TRRS Jack | MJ-4PP-9 | 2 | |  J1, J2 
@@ -40,7 +40,7 @@ Number | Image | Name   | Value | Qty | Remarks         | Place
 17 |![M2 Standoff 7mm](images/IMG_4555.jpg)| M2 standoff | 7mm | 4 |                   |
 18 |![M2 Screw](images/IMG_4557.jpg)| M2 screw | 4mm | 12 |                   |
 19 |![Stabilizer base](images/IMG_4562.jpg)| Stabilizer base |   | 6 |    |
-20 |![Stabilizer shaft](images/IMG_4562.jpg)| Stabilizer shaft |   | 6 |    |
+20 |![Stabilizer shaft](images/IMG_4564.jpg)| Stabilizer shaft |   | 6 |    |
 21 |![Stabilizer wire](images/IMG_4566.jpg)| Stabilizer wire |   | 3 |    |
 22 |![RubberFeet](images/IMG_4559.jpg)| Rubber feet |      | 8 |                |
 23 |![TRRS Cable](images/IMG_4561.jpg)| TRRS cable |       | 1 |     |

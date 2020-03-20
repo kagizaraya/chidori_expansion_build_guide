@@ -43,7 +43,7 @@ Number | Image | Name   | Value | Qty | Remarks         | Place
 20 |![Stabilizer shaft](images/IMG_4564.jpg)| Stabilizer shaft |   | 6 |    |
 21 |![Stabilizer wire](images/IMG_4566.jpg)| Stabilizer wire |   | 3 |    |
 22 |![RubberFeet](images/IMG_4559.jpg)| Rubber feet |      | 8 |                |
-23 |![TRRS Cable](images/IMG_4561.jpg)| TRRS cable |       | 1 |     |
+23 |![TRRS Cable](images/IMG_4561.jpg)| TRRS cable |       | 1 | Includes curl type or straight type. |
 
 
 

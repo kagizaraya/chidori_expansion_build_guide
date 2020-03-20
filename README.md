@@ -44,7 +44,7 @@ Chidori の組立説明書は [こちら](https://github.com/ka2hiro/chidori_bui
 20 |![Stabilizer shaft](images/IMG_4564.jpg)| スタビライザ軸 |   | 6 |    |
 21 |![Stabilizer wire](images/IMG_4566.jpg)| スタビライザワイヤ |   | 3 |    |
 22 |![RubberFeet](images/IMG_4559.jpg)| ゴム足 |      | 4 |                |
-23 |![TRRS Cable](images/IMG_4561.jpg)| TRRSケーブル  |       | 1 |     | 
+23 |![TRRS Cable](images/IMG_4561.jpg)| TRRSケーブル  |       | 1 | カールタイプまたはストレートタイプのどちらかが含まれる | 
 
 
 

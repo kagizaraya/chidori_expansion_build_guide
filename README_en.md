@@ -190,11 +190,11 @@ Before connecting to the computer, at least check the followings.
 
 ![Keyswitch](images/IMG_3486.jpg)
 
-2. The stabilizer shaft has a wire attachment part.
+2. The stabilizer base has a wire attachment part.
 
 ![Keyswitch](images/IMG_3487.jpg)
 
-3. First, align the 2-hole side of the stabilizer shaft with the wire mounting part of the stabilizer pedestal, and then insert the shaft from the bottom of the pedestal.
+3. First, align the 2-hole side of the stabilizer shaft with the wire mounting part of the stabilizer base, and then insert the shaft from the bottom of the base.
 
 ![Keyswitch](images/IMG_3488.jpg)
 ![Keyswitch](images/IMG_3489.jpg)
@@ -203,7 +203,7 @@ Before connecting to the computer, at least check the followings.
 
 ![Keyswitch](images/IMG_3490.jpg)
 
-5. When viewing the pedestal from the side, tilt the wire 90 degrees toward you and snap it into the pedestal wire holder.
+5. When viewing the base from the side, tilt the wire 90 degrees toward you and snap it into the base wire holder.
 
 ![Keyswitch](images/IMG_3491.jpg)
 ![Keyswitch](images/IMG_3493.jpg)
